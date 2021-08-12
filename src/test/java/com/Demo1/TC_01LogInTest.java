@@ -38,7 +38,7 @@ public class TC_01LogInTest extends BaseClass1 {
 		String url = driver.getCurrentUrl();
 		System.out.println("After successful login URL is: " + url);		
 		
-		Thread.sleep(4000);
+		Thread.sleep(5000);
 		
 //		driver.quit();
 				
